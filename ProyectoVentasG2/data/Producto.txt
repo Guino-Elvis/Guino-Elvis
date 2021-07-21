@@ -1,0 +1,6 @@
+P1	Sansung A10	U	C1	100.0	10.0	2.0	null
+P2	sansungA70	U	C1	120.0	0.0	10.0	null
+P3	Sansung A10S	U	C1	120.0	0.0	16.0	null
+P4	sansung	U	azul	125.0	0.0	0.0	5.0
+P5	sansung	U	AMARILLO	500.0	0.0	0.0	0.0
+P6	SansungA10	U	ANARANJADO	500.0	1.0	0.0	15.0

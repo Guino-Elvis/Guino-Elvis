@@ -1,0 +1,2 @@
+U1	pepe	123456	ADMIN
+U2	pedro	123456	ADMIN
