@@ -1,19 +1,25 @@
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\util\UtilsX.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\UsuarioTO.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\VentaTO.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\util\LeerArchivo.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\arreglos\TransformadasM.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\arreglos\EjemplosVectores.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\data\AppCrud.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\CategoriaTO.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\UsuarioDao.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\util\ImprimirArreglos.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\gui\MainGUI.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\CategoriaDao.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\ProductoTO.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\util\LeerTeclado.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\ProductoDao.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\VentaDao.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\arreglos\EjemplosMatrices.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\VentaDetalleTO.java
-E:\DESARROLLO CLASES FP\FP-2021-G2\ProyectoVentasG2\src\main\java\pe\edu\upeu\app\App.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\ModeloSansung.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\ClienteTO.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\VentaTO.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\ColorTO.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\arreglos\EjemplosMatrices.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\ProductoTO.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\gui\MainGUI.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\arreglos\EjemplosVectores.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\ProductoDao.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\UsuarioTO.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\ColorDAO.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\arreglos\TransformadasM.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\CategoriaDao.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\app\App.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\data\AppCrud.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\util\LeerTeclado.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\util\UtilsX.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\util\ImprimirArreglos.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\util\LeerArchivo.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\VentaDao.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\ClienteSansung.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\ModeloTO.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\VentaDetalleTO.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\dao\UsuarioDao.java
+D:\CLON -2021\Guino-Elvis\ProyectoVentasG2\src\main\java\pe\edu\upeu\modelo\CategoriaTO.java

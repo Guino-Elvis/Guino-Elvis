@@ -20,6 +20,8 @@ public class ProductoDao extends AppCrud {
     public Object[][] crearProducto() {
         System.out.println("-------------Registro de Productos------------");
         mostrarCategoria();
+        mostrarColor();
+
         prodTO=new ProductoTO();        
         lar=new LeerArchivo("Producto.txt");        
         prodTO.setIdCateg(lte.leer("", "Ingrese el Id de categoria:"));
@@ -28,7 +30,7 @@ public class ProductoDao extends AppCrud {
        // prodTO.setUnidadMed(lte.leer("", "Ingrese Unidad medida:"));
         //prodTO.setPorceUtil(lte.leer(0.0, "Ingrese el porcentaje de utilidad:"));      
         prodTO.setPrecioUnit(lte.leer(0.0, "Ingrese Precio Unitario:"));
-        prodTO.setIdCateg(lte.leer("", "Ingrese color:"));
+        prodTO.setIdCateg(lte.leer("", "Ingrese color:"));     
         prodTO.setStock(lte.leer(0.0, "Ingrese el stock:"));
         lar=new LeerArchivo("Producto.txt");     
         return agregarContenido(lar, prodTO);
@@ -42,6 +44,17 @@ public class ProductoDao extends AppCrud {
         }
         System.out.println("");
     }
+
+    public void mostrarColor() {
+        lar=new LeerArchivo("Color.txt"); 
+        Object[][] data=listarContenido(lar);
+        for (int i = 0; i < data.length; i++) {
+            System.out.print(data[i][0]+"="+data[i][1]+",");
+        }
+        System.out.println("");
+
+    }
+
 
     public void reporteProducto() {
         System.out.println("-------------Reporte de Categoria------------");
